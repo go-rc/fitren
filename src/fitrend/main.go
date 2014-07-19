@@ -10,9 +10,9 @@ import (
 )
 
 const (
-	mgDomain      = "sandbox27534.mailgun.org"
-	mgApiKey      = "key-7mfaud20r5uyzxhbonjvci335qhojeb3"
-	mgFromUser    = "FCE <fce@sandbox27534.mailgun.org>"
+	mgDomain      = "..."
+	mgApiKey      = "key-..."
+	mgFromUser    = "FCE <fce@...>"
 	mgSubject     = "How was class/gym tonight?"
 	mgText        = "You will need HTML e-mail support to use this application.\n"
 	webhookDomain = "localhost:8081"
